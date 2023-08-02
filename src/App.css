@@ -1,0 +1,21 @@
+.navbar-block{
+    height: 20vh;
+    width:100vw;
+    /* background-color: blue; */
+}
+
+body {
+    margin: 0;
+    padding: 0;
+  }
+
+.centered {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.column{
+    flex-direction: column;
+
+}

@@ -1,0 +1,9 @@
+.static-card{
+    width: 300px;
+    height:auto;
+}
+
+.description-text{
+    font-family: Arial, sans-serif;
+    color: rgb(132, 129, 129);
+}

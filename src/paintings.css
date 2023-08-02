@@ -1,0 +1,10 @@
+#painting-grid{
+    margin: 0px 100px;
+    margin-bottom: 100px;
+}
+
+.painting {
+    height: 100%;
+    padding: 30px;
+    width: auto;
+}
